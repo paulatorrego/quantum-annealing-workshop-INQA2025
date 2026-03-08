@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+jupyter
+scqubits
+qutip
+networkx
+sympy
